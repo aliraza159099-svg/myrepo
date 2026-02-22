@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "tasks.polymorphism.student",
+            "projectName": "Test_687ca6f2"
+        },
+        {
+            "type": "java",
+            "name": "HotelReservationSystem",
+            "request": "launch",
+            "mainClass": "CodeAlpha.HotelReservationSystem",
+            "projectName": "Test_687ca6f2"
+        },
+        {
+            "type": "java",
+            "name": "girl",
+            "request": "launch",
+            "mainClass": "tasks.Inheretence.girl",
+            "projectName": "Test_687ca6f2"
+        },
+        {
+            "type": "java",
+            "name": "cow",
+            "request": "launch",
+            "mainClass": "tasks.Inheretence.cow",
+            "projectName": "Test_687ca6f2"
+        },
+        {
+            "type": "java",
+            "name": "BULB",
+            "request": "launch",
+            "mainClass": "Enapsulation.BULB",
+            "projectName": "Test_687ca6f2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
